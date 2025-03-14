@@ -1,0 +1,38 @@
+h2{
+    color: blue;
+}
+
+h1{
+    color: tan;
+}
+header {
+    text-align: center;
+    background: url('http://dash.ga.co/assets/jeff-bg.png');
+    background-size: cover;
+    color: rgb(58, 80, 152);
+  }
+  a {
+    color: rgb(35, 43, 90);
+  }
+  li {
+    display: inline;
+    padding: 0px 10px 0px 10px;
+    
+  }
+  article{
+    max-width: 500px;
+    padding: 20px;
+    margin: 0 auto;
+  }
+
+  img {
+    margin: 40px 0px 0 px 0px;
+    border: 7px solid white;
+    border-radius: 20px;
+  }
+
+  ul {
+    padding: 10px;
+    background: rgba(0,0,0,0.5);
+    
+  }
