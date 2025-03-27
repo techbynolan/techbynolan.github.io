@@ -7,7 +7,7 @@ h1{
 }
 header {
     text-align: center;
-    background: url(https://i.pinimg.com/236x/de/d0/77/ded077d63c180e90210d6e4b951220e5.jpg');
+    background: url('https://i.pinimg.com/236x/de/d0/77/ded077d63c180e90210d6e4b951220e5.jpg');
     background-size: cover;
     color: rgb(58, 80, 152);
   }
