@@ -1,9 +1,11 @@
 h2{
     color: blue;
+    
 }
 
 h1{
-    color: tan;
+    color: rgb(13, 170, 39);
+
 }
 header {
     text-align: center;
@@ -12,7 +14,7 @@ header {
     color: rgb(58, 80, 152);
   }
   a {
-    color: rgb(35, 43, 90);
+    color: rgb(27, 0, 227);
   }
   li {
     display: inline;
@@ -35,4 +37,7 @@ header {
     padding: 10px;
     background: rgba(0,0,0,0.5);
     
+  }
+  body{
+    background-color: rgb(10, 156, 214);
   }
